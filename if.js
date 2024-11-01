@@ -52,3 +52,27 @@ if(age>=16){
 else{
     console.log(`young`);
 }
+
+
+/*<label >enter age:</label><br>
+<input type="text" id="myText" placeholder="enter age"></input>
+<button type="submit" id="mysubmit">submit</button>
+<p id="resultelement"></p>
+
+
+#resultelement{
+    font-size: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(25, 124, 212);
+
+}
+
+
+
+
+
+
+
+
+
+*/
