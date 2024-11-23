@@ -16,3 +16,4 @@ let name='imranshaik';
 console.log(typeof gpa);
 console.log(`\tyou are ${age} years old \n \tand the price is $${price} \n \tand the gpa is ${gpa}`);
 console.log(typeof name);*/
+
